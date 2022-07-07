@@ -1,0 +1,18 @@
+.aside-box {
+  background: var(--Dark-blue);
+  border-radius: 1em;
+}
+
+.profile-box {
+  background-color: var(--Blue);
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  color: white;
+}
+
+.profile-report {
+  color: var(--Pale-Blue);
+}
