@@ -31,7 +31,3 @@ body {
   background-color: var(--Very-dark-blue);
   font-family: "Rubik", sans-serif;
 }
-
-.main-box {
-  display: flex;
-}
